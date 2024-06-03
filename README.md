@@ -50,8 +50,8 @@ O servidor estará rodando na porta configurada no arquivo .env (por padrão, po
 │       └── User.js
 │   └── public
 │       └── images
-    │        └── products
-    │        └── users
+│        └── products
+│        └── users
 │   └── routes
 │       └── ProductRoutes.js
 │       └── UserRoutes.js
